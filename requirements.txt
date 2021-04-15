@@ -3,4 +3,5 @@ Pillow==7.0.0
 matplotlib==3.1.1
 IPython==7.11.1
 numpy==1.19.5
+scipy==1.4.1
 Watermark==2.2.0
